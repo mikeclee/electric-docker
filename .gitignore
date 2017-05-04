@@ -1,0 +1,5 @@
+# doc - https://git-scm.com/docs/gitignore
+# Explicit directory matching
+
+# File pattern matching
+tmp-*
