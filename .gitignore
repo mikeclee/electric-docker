@@ -1,5 +1,6 @@
 # doc - https://git-scm.com/docs/gitignore
 # Explicit directory matching
+node_modules/
 
 # File pattern matching
 tmp-*

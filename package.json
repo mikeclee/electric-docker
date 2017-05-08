@@ -1,0 +1,16 @@
+{
+  "name": "fun-bag",
+  "version": "1.0.0",
+  "description": "Electrifying Docker ===================",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron src/app/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@pub-git:mikeclee/electric-docker.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
